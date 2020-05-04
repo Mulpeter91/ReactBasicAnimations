@@ -7,6 +7,8 @@ import List from "./components/List/List";
 
 class App extends Component {
 
+  //also checkout Material-Ui for bootstrapping pre-made componenets 
+  //you also have bootstrap react itself
   state = {
     modalIsOpen: false,
     showBlock: false
